@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:dev",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
   //"image": "gcr.io/kaggle-images/python:latest",
   //"image": "mcr.microsoft.com/devcontainers/python:0-3.10", //NOTE: does not include sshd
   //"image": "mcr.microsoft.com/devcontainers/go:0-1-bullseye",
