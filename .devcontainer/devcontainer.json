@@ -1,4 +1,5 @@
 {
+  
   // "image": "mcr.microsoft.com/devcontainers/universal:2",
 //use dev tag see: https://github.com/orgs/community/discussions/63776
   "image": "mcr.microsoft.com/devcontainers/universal:dev",
@@ -44,9 +45,9 @@
       "extensions": [
         // uncomment for vim
         // "vscodevim.vim"
-        //"VSpaceCode.vspacecode"
+        "VSpaceCode.vspacecode",
         //
-        "ms-dotnettools.vscode-dotnet-runtime",
+        //"ms-dotnettools.vscode-dotnet-runtime",
         "ms-toolsai.datawrangler",
         //
         "ms-python.python",
